@@ -11,4 +11,4 @@ This repository contains all sprint projects from each level of the hamoye Data 
     * This project explores how  machine learning techniques can be an invaluable tool for solving one of the grand challenges posed to humanity - [climate change](https://hamoye.com/app/course-details/11993f74d1c1f000). I worked on cleaning, wrangling, exploring, providing summary statistics and interesting visualisations on a public utility data containing millions of rows and tens of files in structured format.
     
 2. [Machine Learning: Regression - Predicting Energy Efficiency of Buildings]()
-   * To develop a multivariate multiple regression model to study the effect of eight input variables on two output variables, which are the heating load and the cooling load, of residential buildings
+   * I developed a multivariate multiple regression model to study the effect of eight input variables on two output variables, which are the heating load and the cooling load, of residential buildings
