@@ -10,5 +10,5 @@ This repository contains all sprint projects from each level of the hamoye Data 
 1. [Introduction to Python for Machine Learning](https://github.com/doyinsolamiolaoye/hamoye_internship/blob/master/Hamoye_stage_one_quiz.ipynb)
     * This project explores how  machine learning techniques can be an invaluable tool for solving one of the grand challenges posed to humanity - [climate change](https://hamoye.com/app/course-details/11993f74d1c1f000). I worked on cleaning, wrangling, exploring, providing summary statistics and interesting visualisations on a public utility data containing millions of rows and tens of files in structured format.
     
-2. [Machine Learning: Regression - Predicting Energy Efficiency of Buildings]()
+2. [Machine Learning: Regression - Predicting Energy Efficiency of Buildings](https://github.com/doyinsolamiolaoye/hamoye_internship/blob/master/hamoye_stage_two_quiz.ipynb)
    * I developed a multivariate multiple regression model to study the effect 
