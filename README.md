@@ -12,3 +12,6 @@ This repository contains all sprint projects from each level of the hamoye Data 
     
 2. [Machine Learning: Regression - Predicting Energy Efficiency of Buildings](https://github.com/doyinsolamiolaoye/hamoye_internship/blob/master/hamoye_stage_two_quiz.ipynb)
    * I developed a multivariate multiple regression model and also used various regression model to find out which model represents and fits our data the best to help improve the accuracy of the predictions.
+
+3. [ Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint]()
+   * I classified and predicted the quality metrics (qascore) of the ecological footprint data for the different countries. The data used includes total and per capita national biocapacity, the ecological footprint of consumption, the ecological footprint of production and total area in hectares.
