@@ -16,5 +16,8 @@ This repository contains all sprint projects from each level of the hamoye Data 
 3. [Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint](https://github.com/doyinsolamiolaoye/hamoye_internship/blob/master/hamoye_Stage_three_quiz.ipynb)
    * I classified and predicted the quality metrics (qascore) of the ecological footprint data for the different countries. The data used includes total and per capita national biocapacity, the ecological footprint of consumption, the ecological footprint of production and total area in hectares.
 
-4. [Practical Time Series Analysis  - Forecasting Individual Household Electric Power Consumption]()
+4. []()
+   * I 
+
+5. [Practical Time Series Analysis  - Forecasting Individual Household Electric Power Consumption](https://github.com/doyinsolamiolaoye/hamoye_internship/blob/master/hamoye-stage-e.ipynb)
    * I explored and built time series forecasting models for measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
